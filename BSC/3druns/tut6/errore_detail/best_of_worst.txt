@@ -1,0 +1,14 @@
+Plain
+Wins/Ties: 8
+Averages: 45.718128221888925
+***************
+SAS
+Wins/Ties: 14
+Averages: 29.28641755740484
+***************
+BSC
+Wins/Ties: 11
+Averages: 38.87145028412156
+
+
+15 total points
